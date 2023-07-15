@@ -19,7 +19,6 @@ JOBS = [
     'id':1,
     'title':'Front-End Developer',
     'location':'Noida, India',
-    'salary': 150000
   },
   {
     'id':1,
